@@ -18,7 +18,7 @@ Los códigos de Python se escribirán y ejecutarán en Google Colab, una herrami
 
 ### Sesión 2: Estructuras y Operadores en Python
 - Operadores
-- Tipos de contenedores (istas, tuplas, diccionarios)
+- Tipos de contenedores (listas, tuplas, diccionarios)
 - Control de flujo (if, else, elif)
 - Funciones en Python
 
