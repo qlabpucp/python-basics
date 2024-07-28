@@ -10,7 +10,7 @@ Los códigos de Python se escribirán y ejecutarán en Google Colab, una herrami
 
 ### Sesión 1: Principios básicos de programación
 
-![Icono de Código](https://img.icons8.com/ios/50/000000/code-file--v1.png)
+![Icono de Código](https://img.icons8.com/ios/50/000000/code-file.png)
 - Introducción a Python
 - Clasificación de datos
 - Definición de variables
