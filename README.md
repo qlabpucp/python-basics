@@ -3,7 +3,7 @@
 
 ## 📄 Resumen
 
-Este taller introductorio está dirigido a estudiantes de la Facultad de Ciencias Sociales y de la Maestría en Economía y aborda los fundamentos para el desarrollo de habilidades de programación con Python.
+Este taller introductorio está dirigido a estudiantes de la Facultad de Ciencias Sociales y de la Maestría en Economía de la Pontificia Universidad Católica del Perú (PUCP) y aborda los fundamentos para el desarrollo de habilidades de programación con Python.
 Los códigos de Python se escribirán y ejecutarán en Google Colab, una herramienta basada en la nube ofrecida por Google Research; o en Jupyter Notebook. Se enseñarán los conceptos esenciales de este lenguaje de programación: uso de librerías, tipos de datos (e.g, integers, floats, booleans, str, etc.), tipos de objetos contenedores (e.g., arrays, lists, dictionaries, DataFrames, etc.), flujos de control y gráficos. Finalmente, se enseñarán fundamentos de estadística en Python. La enseñanza del contenido mencionada está basada en 5 premisas fundamentales de Python que conocerás al inicio del curso. Estos conceptos fundamentales se aplicarán en el uso de las librerías como Pandas, Numpy y Matplotlib, las cuales son esenciales en el análisis de datos.
 
 ## 📚 Contenido del Curso
