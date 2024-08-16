@@ -43,6 +43,10 @@ Los códigos de Python se escribirán y ejecutarán en Google Colab, una herrami
 - Probabilidades en Python
 - Teorema del límite central
 - Distribuciones con scipy.stats
+
+## 🎥 Grabaciones
+🎥 **Grabaciones en YouTube:** [¡Haz clic aquí para ver la lista de reproducción!](https://www.youtube.com/playlist?list=PLqq4bX-XIg355q46ljUvmUeoXe)
+
 ## 👨‍🏫 Instructores
 
 ### Esteban Cabrera
