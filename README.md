@@ -48,13 +48,8 @@ Los códigos de Python se escribirán y ejecutarán en Google Colab, una herrami
 🎥 **Grabaciones en YouTube:** [¡Haz clic aquí para ver la lista de reproducción!](https://www.youtube.com/playlist?list=PLqq4bX-XIg355q46ljUvmUeoXe)
 
 ## 👨‍🏫 Instructores
+### Daniel Flores uwu
+- **Correo:** [a20200238@pucp.edu.pe](mailto:a20200238@pucp.edu.pe)
 
-### Esteban Cabrera
-- **Correo:** [esteban.cabrera@pucp.edu.pe](mailto:esteban.cabrera@pucp.edu.pe)
-- **Perfil GitHub:** [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/estcab00)
-
-### Michael Encalada
-- **Correo:** [michael.encalada@pucp.edu.pe](mailto:michael.encalada@pucp.edu.pe)
-- **Perfil GitHub:** [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/MichaelEncalada)
 
 
